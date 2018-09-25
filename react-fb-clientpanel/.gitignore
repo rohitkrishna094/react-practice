@@ -1,13 +1,5 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
-# Ignore all
-*
-
-# Unignore all with extensions
-!*.*
-
-# Unignore all dirs
-!*/
 
 # dependencies
 /node_modules
@@ -31,7 +23,7 @@ yarn-error.log*
 
 /src/config/*
 /firebase/*
-firebaserc
+/firebaserc
 /firebase.json
 /firestore.indexes.json
 /firestore.rules
