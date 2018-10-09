@@ -2,3 +2,7 @@
   margin-top: 50px;
   padding-left: 100px;
 }
+
+.strikethrough {
+  text-decoration: line-through;
+}
