@@ -9,7 +9,7 @@ class SignIn extends Component {
 
   handleSubmit = e => {
     e.preventDefault();
-    console.log(e);
+    console.log(this.state);
   };
 
   render() {
