@@ -22,4 +22,4 @@ yarn-error.log*
 
 /src/config/fbConfig.js
 
-/functions
+/functions/node_modules
